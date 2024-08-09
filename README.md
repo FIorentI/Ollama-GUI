@@ -20,11 +20,11 @@ This project provides a graphical user interface (GUI) to interact with differen
 
 ```bash
 pip install customtkinter psutil GPUtil ollama
-
+```
 
 ## Usage
 ### Clone the repository:
 
 ```bash
 git clone https://github.com/your-username/ollama-gui.git
-cd ollama-gui
+```
