@@ -2,7 +2,7 @@
 
 This project provides a graphical user interface (GUI) to interact with different models available in [Ollama](https://github.com/ollama/ollama). The GUI is built using `Tkinter` and `CustomTkinter` and allows users to select models, choose modes, submit prompts, and view generated responses in a user-friendly way. The interface also provides real-time monitoring of CPU and GPU usage.
 
-![Ollama GUI Screenshot](./image.png)
+![Ollama GUI Screenshot](./Ollama_gui.png)
 
 ## Features
 
